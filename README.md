@@ -1,5 +1,5 @@
 ## Site desenvolvido para o cliente - Escola Casa do Horto Educação Bilíngue.
-<a href="https://www.https://www.escolacasadohorto.com.br"><img src="imagens/site.png" width="680px" height="480px"></a>
+<a href="https://www.escolacasadohorto.com.br"><img src="imagens/site.png" width="680px" height="480px"></a>
 
 ## Algumas Tecnologias utilizadas:
 <div style="display: inline_block "><br>
