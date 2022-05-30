@@ -1,5 +1,5 @@
 ## Site desenvolvido para a Escola Casa do Horto Educação Bilíngue.
-<a href="https://www.escolacasadohorto.com.br"><img src="imagens/site.png" width="680px" height="480px"></a>
+<a href="https://www.escolacasadohorto.com.br"><img src="imagens/site.png"></a>
 
 ## Minha primeira experiencia profissional. :octocat: 
 
