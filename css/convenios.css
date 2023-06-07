@@ -1,0 +1,24 @@
+/* Estrtururação dá mpágina de convênios-elements */
+
+.col-lg-12 .containercard {
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+    display: inline-flexbox;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    --x-pos: 0;
+    --y-angle: calc(var(--x-pos) * 5deg);
+    --y-pos: 0;
+    --x-angle: calc(var(--y-pos) * 5deg);
+    transform: perspective(200px) rotateY(var(--y-angle)) rotateX(var(--x-angle));
+}
