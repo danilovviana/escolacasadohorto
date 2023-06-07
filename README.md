@@ -4,7 +4,7 @@ Link: www.escolacasadohorto.com.br
 
 ![Exemplo](foto_capa_site.jpg)
 
-## Objetivo
+## OBJETIVO
 + Site desenvolvido para melhorar a comunicação entre a escola e a comunidade escolar. Site entregue ao cliente em maio de 2022.
 
 
@@ -19,7 +19,7 @@ Utilizamos, como base estética e funcional, o sitsema de grade pré-criado do B
 - PHP - PHPMailer - 
 
 
-## Observações
+## OBSERVAÇÕES
 
 Com esse projeto, consegui compreender e desenvolver uma noção mais objetiva da imensa possibilidade dos recursos do CSS, da estruturação do JS na sua aplicabilidade, dando uma dinamicidade na arquitetura do projeto. Foi importante também projetar toda estrutura de arquitetura responsiva para as duversas utilizações (web, mobile, talbet, etc).
 
