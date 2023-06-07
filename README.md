@@ -8,18 +8,18 @@ Link: www.escolacasadohorto.com.br
 + Site desenvolvido para melhorar a comunicação entre a escola e a comunidade escolar. Site entregue ao cliente em maio de 2022.
 
 ​ 
-![](videos/Escola Casa do Horto.mp4);
+![](videos/video.mp4);
 
 
 ## TECNOLOGIAS UTILIZADAS
 
 Utilizamos, como base estética e funcional, o sitsema de grade pré-criado do BOOTSTRAP da Envato e de autoria de Ingrid Kuhn. Através deste pré-projeto, criamos e recriamos algumas composições e elementos de códigos no intuito de deixar o projeto mais próximo da identidade da escola:
 
-- HTML - ![Exemplo](imagens/html.svg);
-- CSS - ![Exemplo](imagens/css.svg);
-- BOOTSTRAP - ![Exemplo](imagens/bootstrap.svg);
-- JAVASCRIPT - para algumas readequações de códigos e para outras requisições e encaminhamentos (enviando e recuperando dados de forma assíncrona) - ![Exemplo](imagens/js.svg);
-- PHP - PHPMailer  - ![Exemplo](imagens/php.svg);
+- HTML - 
+- CSS - 
+- BOOTSTRAP - 
+- JAVASCRIPT - para algumas readequações de códigos e para outras requisições e encaminhamentos (enviando e recuperando dados de forma assíncrona) - 
+- PHP - PHPMailer - 
 
 
 ## Observações
